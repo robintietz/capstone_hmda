@@ -17,6 +17,7 @@ Links to the data set are available here:
 - 2022 HMDA data: https://ffiec.cfpb.gov/data-publication/2022
 - Snapshot Dataset: https://ffiec.cfpb.gov/data-publication/snapshot-national-loan-level-dataset/2022
 - Field Explanations: https://ffiec.cfpb.gov/documentation/publications/loan-level-datasets/lar-data-fields
+- Rate Spread Calculator: https://ffiec.cfpb.gov/tools/rate-spread
 
 ## Map Example
 
