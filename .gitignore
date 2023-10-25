@@ -1,5 +1,6 @@
 data/2022_public_lar_csv.csv
 data/pruned_data.csv
+data/pruned_data2.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
