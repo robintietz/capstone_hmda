@@ -35,3 +35,9 @@ Links to the data set are available here:
 - Snapshot Dataset: https://ffiec.cfpb.gov/data-publication/snapshot-national-loan-level-dataset/2022
 - Field Explanations: https://ffiec.cfpb.gov/documentation/publications/loan-level-datasets/lar-data-fields
 - Rate Spread Calculator: https://ffiec.cfpb.gov/tools/rate-spread
+
+## Map Example
+
+Rate Spread by Census Tract in the Nashville Area
+
+[](image/NashvilleTracts.PNG)
