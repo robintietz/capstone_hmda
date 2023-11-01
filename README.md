@@ -40,4 +40,4 @@ Links to the data set are available here:
 
 Rate Spread by Census Tract in the Nashville Area
 
-[](image/NashvilleTracts.PNG)
+![](image/NashvilleTracts.PNG)
