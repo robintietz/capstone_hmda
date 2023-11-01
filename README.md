@@ -18,6 +18,10 @@ There were some geographic discrepancies in lending markets, not all of which co
 
 As it stands communities with an abundance of manufactured are not being well served by lending institutions. Finding ways to attract more lenders into this space at a lower rate would likely be necessary for these communities to have compareable loan pricing to the rest of the country.
 
+## Tableau Story
+
+https://public.tableau.com/views/HMDAExploration/HDMA?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ## Data
 
 The source data for this project is the 2022 Snapshot Loan/Application Record. This includes all applications for loans secured by a dwelling made in 2022. For this project the following exclusions have been made:
